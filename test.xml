@@ -1,2 +1,101 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>New Episode</title><link>AW</link><description>This is a cool feed!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>it</language><lastBuildDate>Tue, 03 Sep 2024 21:09:39 +0000</lastBuildDate><item><title>Kinnikuman Perfect Origin Arc Ep. 8</title><link>https://srv28-kokeshi.sweetpixel.org/DDL/ANIME/KinnikumanKanpekiChoujinShiso-hen/KinnikumanKanpekiChoujinShiso-hen_Ep_08_SUB_ITA.mp4</link><guid isPermaLink="false">83931</guid></item><item><title>Narenare -Cheer for you!- Ep. 9</title><link>https://srv30-emiko.sweetpixel.org/DDL/ANIME/NaNareHanaNare/NaNareHanaNare_Ep_09_SUB_ITA.mp4</link><guid isPermaLink="false">83932</guid></item><item><title>A Journey Through Another World: Raising Kids While Adventuring Ep. 10</title><link>https://srv16-suisen.sweetpixel.org/DDL/ANIME/IsekaiYururiKikou/IsekaiYururiKikou_Ep_10_SUB_ITA.mp4</link><guid isPermaLink="false">83933</guid></item><item><title>Yami Shibai 13 Ep. 8</title><link>https://srv30-emiko.sweetpixel.org/DDL/ANIME/YamiShibai13/YamiShibai13_Ep_08_SUB_ITA.mp4</link><guid isPermaLink="false">83934</guid></item><item><title>Tutor Hitman Reborn! (ITA) Ep. 134</title><link>https://srv28-kokeshi.sweetpixel.org/DDL/ANIME/TutorHitmanRebornITA/TutorHitmanReborn_Ep_134_ITA.mp4</link><guid isPermaLink="false">83935</guid></item><item><title>Mayonaka Punch Ep. 9</title><link>https://srv27-misaki.sweetpixel.org/DDL/ANIME/MayonakaPunch/MayonakaPunch_Ep_09_SUB_ITA.mp4</link><guid isPermaLink="false">83936</guid></item><item><title>SHY 2 Ep. 9</title><link>https://srv13-katana.sweetpixel.org/DDL/ANIME/SHY2/SHY2_Ep_09_SUB_ITA.mp4</link><guid isPermaLink="false">83937</guid></item><item><title>The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible Ep. 9</title><link>https://srv16-suisen.sweetpixel.org/DDL/ANIME/ShinmaiOssanBoukensha/ShinmaiOssanBoukensha_Ep_09_SUB_ITA.mp4</link><guid isPermaLink="false">83938</guid></item><item><title>Spice and Wolf: Merchant Meets the Wise Wolf Ep. 22</title><link>https://srv16-suisen.sweetpixel.org/DDL/ANIME/OokamiToKoushinryou/OokamiToKoushinryou_Ep_22_SUB_ITA.mp4</link><guid isPermaLink="false">83939</guid></item><item><title>Tokyo Mew Mew New ♡ 2 (ITA) Ep. 6</title><link>https://srv26-terebi.sweetpixel.org/DDL/ANIME/TokyoMewMewNew2ITA/TokyoMewMewNew2_Ep_06_ITA.mp4</link><guid isPermaLink="false">83940</guid></item><item><title>Pokemon Horizons: The Series Ep. 58</title><link>https://srv28-kokeshi.sweetpixel.org/DDL/ANIME/PokemonHorizonsTheSeries/PokemonHorizonsTheSeries_Ep_58_SUB_ITA.mp4</link><guid isPermaLink="false">83941</guid></item><item><title>The Magical Girl and the Evil Lieutenant Used to Be Archenemies Ep. 9</title><link>https://srv22-bento.sweetpixel.org/DDL/ANIME/KatsuteMahouShoujoToAku/KatsuteMahouShoujoToAku_Ep_09_SUB_ITA.mp4</link><guid isPermaLink="false">83942</guid></item><item><title>No Longer Allowed In Another World Ep. 9</title><link>https://srv18-tsurukusa.sweetpixel.org/DDL/ANIME/IsekaiShikkaku/IsekaiShikkaku_Ep_09_SUB_ITA.mp4</link><guid isPermaLink="false">83943</guid></item><item><title>Mission: Yozakura Family Ep. 19</title><link>https://srv18-tsurukusa.sweetpixel.org/DDL/ANIME/Yozakura-sanChiNoDaisakusen/Yozakura-sanChiNoDaisakusen_Ep_19_SUB_ITA.mp4</link><guid isPermaLink="false">83944</guid></item><item><title>Tasuketsu -Fate of the Majority- Ep. 8</title><link>https://srv14-yuzu.sweetpixel.org/DDL/ANIME/Tasuuketsu/Tasuuketsu_Ep_08_SUB_ITA.mp4</link><guid isPermaLink="false">83945</guid></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>New Episode</title>
+<link>AW</link>
+<description>This is a cool feed!</description>
+<docs>http://www.rssboard.org/rss-specification</docs>
+<generator>python-feedgen</generator>
+<language>it</language>
+<lastBuildDate>Tue, 03 Sep 2024 21:43:31 +0000</lastBuildDate>
+<item>
+<title>Kinnikuman Perfect Origin Arc Ep. 8</title>
+<link>https://srv28-kokeshi.sweetpixel.org/DDL/ANIME/KinnikumanKanpekiChoujinShiso-hen/KinnikumanKanpekiChoujinShiso-hen_Ep_08_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: Kinnikuman Perfect Origin Arc Ep. 8</description>
+<guid isPermaLink="false">83931</guid>
+</item>
+<item>
+<title>Narenare -Cheer for you!- Ep. 9</title>
+<link>https://srv30-emiko.sweetpixel.org/DDL/ANIME/NaNareHanaNare/NaNareHanaNare_Ep_09_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: Narenare -Cheer for you!- Ep. 9</description>
+<guid isPermaLink="false">83932</guid>
+</item>
+<item>
+<title>A Journey Through Another World: Raising Kids While Adventuring Ep. 10</title>
+<link>https://srv16-suisen.sweetpixel.org/DDL/ANIME/IsekaiYururiKikou/IsekaiYururiKikou_Ep_10_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: A Journey Through Another World: Raising Kids While Adventuring Ep. 10</description>
+<guid isPermaLink="false">83933</guid>
+</item>
+<item>
+<title>Yami Shibai 13 Ep. 8</title>
+<link>https://srv30-emiko.sweetpixel.org/DDL/ANIME/YamiShibai13/YamiShibai13_Ep_08_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: Yami Shibai 13 Ep. 8</description>
+<guid isPermaLink="false">83934</guid>
+</item>
+<item>
+<title>Tutor Hitman Reborn! (ITA) Ep. 134</title>
+<link>https://srv28-kokeshi.sweetpixel.org/DDL/ANIME/TutorHitmanRebornITA/TutorHitmanReborn_Ep_134_ITA.mp4</link>
+<description>NUOVO EPISODIO: Tutor Hitman Reborn! (ITA) Ep. 134</description>
+<guid isPermaLink="false">83935</guid>
+</item>
+<item>
+<title>Mayonaka Punch Ep. 9</title>
+<link>https://srv27-misaki.sweetpixel.org/DDL/ANIME/MayonakaPunch/MayonakaPunch_Ep_09_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: Mayonaka Punch Ep. 9</description>
+<guid isPermaLink="false">83936</guid>
+</item>
+<item>
+<title>SHY 2 Ep. 9</title>
+<link>https://srv13-katana.sweetpixel.org/DDL/ANIME/SHY2/SHY2_Ep_09_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: SHY 2 Ep. 9</description>
+<guid isPermaLink="false">83937</guid>
+</item>
+<item>
+<title>The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible Ep. 9</title>
+<link>https://srv16-suisen.sweetpixel.org/DDL/ANIME/ShinmaiOssanBoukensha/ShinmaiOssanBoukensha_Ep_09_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible Ep. 9</description>
+<guid isPermaLink="false">83938</guid>
+</item>
+<item>
+<title>Spice and Wolf: Merchant Meets the Wise Wolf Ep. 22</title>
+<link>https://srv16-suisen.sweetpixel.org/DDL/ANIME/OokamiToKoushinryou/OokamiToKoushinryou_Ep_22_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: Spice and Wolf: Merchant Meets the Wise Wolf Ep. 22</description>
+<guid isPermaLink="false">83939</guid>
+</item>
+<item>
+<title>Tokyo Mew Mew New ♡ 2 (ITA) Ep. 6</title>
+<link>https://srv26-terebi.sweetpixel.org/DDL/ANIME/TokyoMewMewNew2ITA/TokyoMewMewNew2_Ep_06_ITA.mp4</link>
+<description>NUOVO EPISODIO: Tokyo Mew Mew New ♡ 2 (ITA) Ep. 6</description>
+<guid isPermaLink="false">83940</guid>
+</item>
+<item>
+<title>Pokemon Horizons: The Series Ep. 58</title>
+<link>https://srv28-kokeshi.sweetpixel.org/DDL/ANIME/PokemonHorizonsTheSeries/PokemonHorizonsTheSeries_Ep_58_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: Pokemon Horizons: The Series Ep. 58</description>
+<guid isPermaLink="false">83941</guid>
+</item>
+<item>
+<title>The Magical Girl and the Evil Lieutenant Used to Be Archenemies Ep. 9</title>
+<link>https://srv22-bento.sweetpixel.org/DDL/ANIME/KatsuteMahouShoujoToAku/KatsuteMahouShoujoToAku_Ep_09_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: The Magical Girl and the Evil Lieutenant Used to Be Archenemies Ep. 9</description>
+<guid isPermaLink="false">83942</guid>
+</item>
+<item>
+<title>No Longer Allowed In Another World Ep. 9</title>
+<link>https://srv18-tsurukusa.sweetpixel.org/DDL/ANIME/IsekaiShikkaku/IsekaiShikkaku_Ep_09_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: No Longer Allowed In Another World Ep. 9</description>
+<guid isPermaLink="false">83943</guid>
+</item>
+<item>
+<title>Mission: Yozakura Family Ep. 19</title>
+<link>https://srv18-tsurukusa.sweetpixel.org/DDL/ANIME/Yozakura-sanChiNoDaisakusen/Yozakura-sanChiNoDaisakusen_Ep_19_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: Mission: Yozakura Family Ep. 19</description>
+<guid isPermaLink="false">83944</guid>
+</item>
+<item>
+<title>Tasuketsu -Fate of the Majority- Ep. 8</title>
+<link>https://srv14-yuzu.sweetpixel.org/DDL/ANIME/Tasuuketsu/Tasuuketsu_Ep_08_SUB_ITA.mp4</link>
+<description>NUOVO EPISODIO: Tasuketsu -Fate of the Majority- Ep. 8</description>
+<guid isPermaLink="false">83945</guid>
+</item>
+</channel>
+</rss>
